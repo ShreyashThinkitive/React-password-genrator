@@ -1,0 +1,61 @@
+{
+  "hash": "5bba389d",
+  "configHash": "e84c1e11",
+  "lockfileHash": "d8817d03",
+  "browserHash": "f369cafe",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "cba810ba",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "958da30e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "7a23d70b",
+      "needsInterop": true
+    },
+    "@mui/material/Card": {
+      "src": "../../node_modules/@mui/material/esm/Card/index.js",
+      "file": "@mui_material_Card.js",
+      "fileHash": "5ba746de",
+      "needsInterop": false
+    },
+    "@mui/material/CardContent": {
+      "src": "../../node_modules/@mui/material/esm/CardContent/index.js",
+      "file": "@mui_material_CardContent.js",
+      "fileHash": "0691bfd0",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "d089c7e6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-HVBI3IWG": {
+      "file": "chunk-HVBI3IWG.js"
+    },
+    "chunk-TIVI3P2L": {
+      "file": "chunk-TIVI3P2L.js"
+    },
+    "chunk-NRCF4HKP": {
+      "file": "chunk-NRCF4HKP.js"
+    },
+    "chunk-DBG2PLKU": {
+      "file": "chunk-DBG2PLKU.js"
+    },
+    "chunk-BGO6OVE5": {
+      "file": "chunk-BGO6OVE5.js"
+    }
+  }
+}
